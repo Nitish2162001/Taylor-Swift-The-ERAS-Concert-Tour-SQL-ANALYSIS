@@ -1,0 +1,16 @@
+1. Retrieve the total number of concerts where Taylor Swift performed in United Kingdom.
+
+2. Retrieve the details (ConcertID, ConcertDate, VenueName) of the concert with the earliest date.
+
+3. List the concert dates and locations in European countries during the summer months (June, July, August).
+
+4. Find the venue that hosted the most concerts during the entire tour.
+
+5. Calculate the total number of concerts in each city:
+
+6. List the concerts in which the venue name contains the word 'STADIUM'
+
+7. Calculate the total number of concerts in each month
+
+8. List the concerts where Taylor Swift performed in Asian countries:
+
